@@ -2,7 +2,6 @@
 #### Web Developer & Graphics Designer
 Hi , If you are looking for a genius for this project, Then you are reading the right one. I have been working as a Web Designer & Graphics Designer as well. I have higher experience in the following areas.
 
-Skills: Html-5, css-3, bootstrap-5, javascript, react, php laravel framework
 
 Skills: HTML / CSS/ JS / REACT /PHP LARAVEL FRAMEWORK
 
